@@ -1,0 +1,4 @@
+#haidany citlhaly perez quiroz
+frutas = ["manzana", "pera", "uva"]
+for fruta in frutas:
+    print("Fruta:", fruta)
