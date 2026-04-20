@@ -1,0 +1,11 @@
+#haidany citlhay perez quiroz
+c1 = float(input("Ingresa la primera calificación: "))
+c2 = float(input("Ingresa la segunda calificación: "))
+c3 = float(input("Ingresa la tercera calificación: "))
+
+promedio = (c1 + c2 + c3) / 3
+
+if promedio >= 6:
+    print("Aprobado con promedio:", promedio)
+else:
+    print("Reprobado con promedio:", promedio)
