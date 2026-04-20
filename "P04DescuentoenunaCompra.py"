@@ -1,0 +1,8 @@
+#Haidany citlhaly perez quiroz
+compra = float(input("Ingresa el total de la compra: "))
+if compra >= 1000:
+    descuento = compra * 0.10
+    total = compra - descuento
+    print("Se aplicó descuento de 10%. Total:", total)
+else:
+    print("No aplica descuento. Total:", compra)
