@@ -1,0 +1,3 @@
+#Haidany citlhaly perez quiroz
+import math
+print("Raíz cuadrada de 16:", math.sqrt(16))
