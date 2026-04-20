@@ -1,0 +1,11 @@
+#Haidany citlhaly perez quiroz
+import turtle
+
+t = turtle.Turtle()
+t.color("blue")
+
+for i in range(5):
+    t.forward(150)
+    t.right(144)
+
+turtle.done()
