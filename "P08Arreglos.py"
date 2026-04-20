@@ -1,0 +1,4 @@
+#Haidany citlhaly perez quiroz
+numeros = [1, 2, 3, 4, 5]
+print("Lista:", numeros)
+print("Primer elemento:", numeros[0])
