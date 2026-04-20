@@ -1,0 +1,6 @@
+#Haidany citlhaly perez quiroz
+try:
+    num = int(input("Ingresa un número: "))
+    print("Número ingresado:", num)
+except ValueError:
+    print("Error: Debes ingresar un número entero")
